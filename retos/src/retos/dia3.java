@@ -1106,9 +1106,6 @@ public class dia3 {
 		for (String c : baraja) {
 			System.out.println(c);
 			}
-		System.out.println();
-		System.out.println("001110100011");
-		System.out.println(931*3618);
 	}
 
 }
